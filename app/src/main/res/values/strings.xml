@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Application</string>
+    <string name="fldFirstName">First Name</string>
+    <string name="fldLastName">Last Name</string>
+    <string name="fldEmail">Email Address</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="txtFirstName">First Name: </string>
+    <string name="txtLastName">Last Name: </string>
+    <string name="txtEmail">Email: </string>
+
+</resources>
